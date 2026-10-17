@@ -1,4 +1,13 @@
 {
   "version": 2,
-  "adverts": []
+  "adverts": [
+    {
+      "position": 1,
+      "enabled": true,
+      "title": "",
+      "filename": "adver1",
+      "description": "",
+      "link": ""
+    }
+  ]
 }
